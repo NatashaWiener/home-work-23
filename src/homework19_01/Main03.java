@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main03 {
 
-
+// vnesla izmeneniya 22/11 v 10.09
       public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number;
