@@ -29,6 +29,7 @@ public class Main02 {
     Scanner scanner = new Scanner(System.in);
     String  month = scanner.next();
     System.out.println(getDaysAmount(month));
+    System.out.println("change");
   }
 
 }
